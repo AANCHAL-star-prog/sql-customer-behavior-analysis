@@ -84,7 +84,5 @@ from `customer_behavior`.`customer`
 where `Previous Purchases`>5
 group by `Subscription Status`;
 
-# Question 11 What is  revenue contibution of each age group?
-select* from `customer_behavior`.`customer`;
 
 
